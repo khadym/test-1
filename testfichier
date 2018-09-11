@@ -1,4 +1,5 @@
 #!/bin/bash
 
 echo "Bonjour hello world"
+echo "Bonjor toto"
 
